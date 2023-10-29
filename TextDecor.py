@@ -3,7 +3,7 @@ from flask import Flask
 from threading import Thread
 
 
-bot = telebot.TeleBot("5827485632:AAG50cF0-ImvqUQfzeTgpVogM0ttqvKITK0")
+bot = telebot.TeleBot("6154630523:AAHTsVWlAHIyC9HaUl7hKck4TldivRPip-g")
 app = Flask("")
 
 
